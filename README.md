@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Parisa Taghiloo 👋
 
-<!--
-**parisa82t/parisa82t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Engineering Graduate | Artificial Intelligence
 
-Here are some ideas to get you started:
+I'm a Computer Engineering graduate with a strong interest in Artificial Intelligence, Machine Learning, and Deep Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in developing intelligent systems and exploring AI-driven solutions to real-world problems.
+
+### Research Interests
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Computer Vision
+- Intelligent Systems
+
+### Technologies & Tools
+- Python
+- TensorFlow & Keras
+- Scratch
+- Git & GitHub
+
+### Research & Projects
+- **Audio-Based Memory Game:** Designed and implemented an accessible audio-based memory game for blind and low-vision players using Scratch.
+- **Cat and Dog Image Classification:** Developed a custom Convolutional Neural Network (CNN) for image classification.
+
+### Academic Background
+B.Sc. in Computer Engineering  
+Alzahra University, Tehran, Iran
+
+### Research Presentation
+Presented a research paper at the 8th Conference on Computer Games: Challenges & Opportunities (CGCO 2026).
+
+---
+
+I'm continuously learning, building projects, and developing my skills in Artificial Intelligence.
